@@ -4,3 +4,5 @@ matplotlib>=3.3.2
 sox 
 libsndfile1
 ffmpeg
+braceexpand
+webdataset
