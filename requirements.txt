@@ -6,3 +6,6 @@ libsndfile1
 ffmpeg
 braceexpand
 webdataset
+frozendict
+torch_stft
+editdistance
